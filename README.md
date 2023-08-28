@@ -6,6 +6,10 @@ Las librerías de Python necesarias para ejecutar las rutinas son:
 * Matplotlib
 * Scipy
 
+Para reproducir los resultados mostrados en los archivos .png, se deberán instalar estas librerías. 
+En caso que no estén instaladas, se puede abrir una terminal y ejecutar el comando:
+`pip install -r requirements.txt`
+
 A continuación se describen las rutinas:
 
 * 4QAM_SISO.py
