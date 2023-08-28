@@ -12,7 +12,7 @@ A continuación se describen las rutinas:
   * Sistema de 1 antena en el transmisor y 1 en el receptor. Se emplea una modulación 4-QAM
 
 *  16QAM_SISO.py
-  * Sistema de 1 antena en el transmisor y 1 en el receptor. Se emplea una modulación 16-QAM
+   * Sistema de 1 antena en el transmisor y 1 en el receptor. Se emplea una modulación 16-QAM
 
 * 4QAM_SIMO_1x2.py
   * Sistema de 1 antena en el transmisor y 2 antenas en el receptor. Se emplea una modulación 4-QAM.
